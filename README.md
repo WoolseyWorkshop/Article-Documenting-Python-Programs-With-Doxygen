@@ -5,5 +5,5 @@ This repository contains resources related to the [Documenting Python Programs W
 
 ## [MyDoxygenExample Project](MyDoxygenExample)
 An example Python program, and associated module, demonstrating how to use Doxygen style comments for generating source code documentation with Doxygen.
-* The [doxygen](doxygen) directory holds the Doxygen configuration file (Doxyfile) along with the generated documentation.
-* The [src](src) directory holds the Python source code.
+* The [doxygen](MyDoxygenExample/doxygen) directory holds the Doxygen configuration file (Doxyfile) along with the generated documentation.
+* The [src](MyDoxygenExample/src) directory holds the Python source code.
